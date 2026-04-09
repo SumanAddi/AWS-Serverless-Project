@@ -4,17 +4,17 @@ Welcome to Awesome App - a full-stack AWS Serverless project showcasing the powe
 
 ![AWS Infrastructure Diagram](assets/Serverless.gif)
 
-## Table of Contents
+## Table of Contents 📋
 
-- [Overview](#overview)
+- [Introduction](#introduction)
 - [Features](#features)
-- [Folder Structure](#folder-structure)
+- [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Frontend](#frontend)
-- [Backend](#backend)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -31,18 +31,6 @@ Awesome App is a modern, scalable, and serverless application that demonstrates 
 
 Welcome to Project Name! A [brief description] of your project. Share its purpose, key features, and why it's awesome.
 
-## Table of Contents 📋
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-  - [Frontend](#frontend)
-  - [Backend](#backend)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction 🌟
 
